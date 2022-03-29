@@ -3,7 +3,9 @@
 
 ## NuxtJS
 
-> 代码仓库地址：https://gitee.com/cloveryuan/realworld-nuxtjs
+> 代码仓库地址：https://gitee.com/maogezuishuai/lagou-e-task/tree/master/part3/fed-e-task-03-03/realworld-nuxtjs
+>
+> 项目访问地址：http://113.31.112.240:3000/
 
 ### 一、Nuxt.js是什么
 
